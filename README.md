@@ -13,4 +13,4 @@ Here's an empty React / SASS / Webpack Template to get you started with a React 
 8. If no errors occured, the project is ready to run!
 
 Now in cmd, you can choose to either *npm run build*, which will build your project, and put the result in the *build* folder. In that folder there will be an *index.html* which you can open in your browser.
-Another, equally useful command is *npm run start*, which starts a local development server. After starting, open the website: *localhost:8080*, to view your website. If the cmd window is kept running in this mode, any change you make to the project files will be immediately reflected in the browser.
+Another, equally useful command is *npm run start*, which starts a local development server. After starting, navigate to: *localhost:8080*, to view your website. If the cmd window is kept running in this mode, any change you make to the project files will be immediately reflected in the browser.
