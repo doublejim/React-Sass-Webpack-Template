@@ -1,7 +1,7 @@
 # React-Sass-Webpack-Template
 An empty React / SASS / Webpack Template to get you started with a React project.
 
-# Steps required (on Windows):
+# Setup steps (on Windows):
 1. Download and install node.js from https://nodejs.org/en/
 2. Log off and log on, so that the environment variables are applied.
 3. Open cmd.
